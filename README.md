@@ -5,5 +5,4 @@ Jdbc for the connection to the database.
 And mysql for data handling.
 
 #You can download this repository and run ControldeStockMain.java to see the project running and do your tests.
-
-#Finally, this project is a job that I was doing throughout a specialized course in Java.
+#Last but not least if you want to run the program you will need to replicate the database on your localhost.
